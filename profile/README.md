@@ -1,4 +1,4 @@
-# [PeyBot](https://peybot.sharme.eu)
+# [PeyBot](https://www.peybot.tk)
 Your server, your actions, your commands.
 
 ### A Reliable Bot
